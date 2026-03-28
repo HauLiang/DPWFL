@@ -2,7 +2,7 @@
 The codes for "When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence".
 
 If you use the code, please cite our paper:
-> Chen, Yaoling and Liang, Hao and Tu, Xiaotong. "When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence", in *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
+> [Chen, Yaoling and Liang, Hao and Tu, Xiaotong. "When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence", in *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* Oral, 2026.](https://arxiv.org/abs/2603.19040 "https://arxiv.org/abs/2603.19040")
 
 ## A Fast Reproduction Guide
 
